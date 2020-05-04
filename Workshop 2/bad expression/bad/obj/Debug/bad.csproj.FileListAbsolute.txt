@@ -1,0 +1,7 @@
+C:\Users\clyde\source\repos\workshop\Workshop 2\bad expression\bad\bin\Debug\bad.exe.config
+C:\Users\clyde\source\repos\workshop\Workshop 2\bad expression\bad\bin\Debug\bad.exe
+C:\Users\clyde\source\repos\workshop\Workshop 2\bad expression\bad\bin\Debug\bad.pdb
+C:\Users\clyde\source\repos\workshop\Workshop 2\bad expression\bad\obj\Debug\bad.csprojAssemblyReference.cache
+C:\Users\clyde\source\repos\workshop\Workshop 2\bad expression\bad\obj\Debug\bad.csproj.CoreCompileInputs.cache
+C:\Users\clyde\source\repos\workshop\Workshop 2\bad expression\bad\obj\Debug\bad.exe
+C:\Users\clyde\source\repos\workshop\Workshop 2\bad expression\bad\obj\Debug\bad.pdb

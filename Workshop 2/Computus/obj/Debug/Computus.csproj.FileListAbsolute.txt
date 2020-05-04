@@ -1,0 +1,7 @@
+C:\Users\clyde\source\repos\workshop\Workshop 2\Computus\bin\Debug\Computus.exe.config
+C:\Users\clyde\source\repos\workshop\Workshop 2\Computus\bin\Debug\Computus.exe
+C:\Users\clyde\source\repos\workshop\Workshop 2\Computus\bin\Debug\Computus.pdb
+C:\Users\clyde\source\repos\workshop\Workshop 2\Computus\obj\Debug\Computus.csprojAssemblyReference.cache
+C:\Users\clyde\source\repos\workshop\Workshop 2\Computus\obj\Debug\Computus.csproj.CoreCompileInputs.cache
+C:\Users\clyde\source\repos\workshop\Workshop 2\Computus\obj\Debug\Computus.exe
+C:\Users\clyde\source\repos\workshop\Workshop 2\Computus\obj\Debug\Computus.pdb
